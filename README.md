@@ -68,7 +68,7 @@ Welcome to My Profile! I'm a Software Engineer.
 
 ## Contact Me
 
-|  <a href="https://preetam.dev/"><img src="https://images.unsplash.com/photo-1489533119213-66a5cd877091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1502&q=80" width="400px"/></a> |
+|  |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Personal Website](https://preetam.dev/)**                                                                                |
 |<a href="https://twitter.com/askpreetam"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="32px" height="32px"></a> <a href="https://github.com/prtm" style="margin-left: 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32px" height="32px"></a> <a style="margin-left: 10px;" href="https://angel.co/u/askpreetam"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" width="32px" height="32px"></a> <a style="margin-left: 10px;" href="https://www.linkedin.com/in/preetam-swami/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" height="32px"></a> |
